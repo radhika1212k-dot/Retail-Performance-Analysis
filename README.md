@@ -35,11 +35,11 @@ To design and develop a Retail Business Intelligence Dashboard that:
 
 
 📊 Dashboard Insights:
-  💰 Total Sales: ₹2.97M  |  Total Profit: ₹1.30M
-  🏆 Top Categories: Toys, Grocery, Electronics
-  🌎 Best Performing States: Pennsylvania, Ohio, Michigan
-  👩‍💼 Top Account Manager: Radhika Kumari
-  🚚 Preferred Shipping Mode: Standard
+-  💰 Total Sales: ₹2.97M  |  Total Profit: ₹1.30M
+-  🏆 Top Categories: Toys, Grocery, Electronics
+-  🌎 Best Performing States: Pennsylvania, Ohio, Michigan
+-  👩‍💼 Top Account Manager: Radhika Kumari
+-  🚚 Preferred Shipping Mode: Standard
 
   
 💡 Key Features
